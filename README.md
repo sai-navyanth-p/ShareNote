@@ -4,7 +4,11 @@
 ShareNote is a **real-time collaborative document editing platform** that enables multiple users to simultaneously create, share, and edit documents with strong consistency guarantees. Built using **Java, multithreading, socket-based networking, and database integration**.
 
 ---
+- [Go to Screenshots](#screenshots)
 
+- [Go to Demo](#demo)
+
+---
 ## 🚀 Features
 
 ### 🔐 User Authentication & Access Control
@@ -134,3 +138,44 @@ This project demonstrates:
 - Real-world use of **multithreading and synchronization**
 - End-to-end system design (backend + frontend)
 - Challenges behind real-time collaborative platforms
+
+## Demo
+Please check **demo-part-1-installation-and-features.mp4** and **demo-part-2-working-and-features.mp4**
+
+## Screenshots
+![Image 1](screenshots/sharenote-1.png)
+---
+![Image 2](screenshots/sharenote-2.png)
+---
+![Image 3](screenshots/sharenote-3.png)
+---
+![Image 4](screenshots/sharenote-4.png)
+---
+![Image 5](screenshots/sharenote-5.png)
+---
+![Image 6](screenshots/sharenote-6.png)
+---
+![Image 7](screenshots/sharenote-7.png)
+---
+![Image 8](screenshots/sharenote-8.png)
+---
+![Image 9](screenshots/sharenote-9.png)
+---
+![Image 10](screenshots/sharenote-10.png)
+---
+![Image 11](screenshots/sharenote-11.png)
+---
+![Image 12](screenshots/sharenote-12.png)
+---
+![Image 13](screenshots/sharenote-13.png)
+---
+![Image 14](screenshots/sharenote-14.png)
+---
+![Image 15](screenshots/sharenote-15.png)
+---
+![Image 16](screenshots/sharenote-16.png)
+---
+![Image 17](screenshots/sharenote-17.png)
+---
+![Image 18](screenshots/sharenote-18.png)
+---
